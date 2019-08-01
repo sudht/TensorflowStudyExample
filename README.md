@@ -1,5 +1,5 @@
 # Tensorflow Study Example
-휘용이
+..................
 
 # Version Info
 * Python3.6
