@@ -1,5 +1,6 @@
 # Tensorflow Study Example
-이제 내꺼....
+오프레서 mk2 산 이강호
+
 # Version Info
 * Python3.6
 * Tensorflow1.10
