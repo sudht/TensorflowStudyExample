@@ -1,5 +1,5 @@
 # Tensorflow Study Example
-오프레서 mk2 산 이강호
+휘용이
 
 # Version Info
 * Python3.6
